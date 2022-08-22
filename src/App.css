@@ -1,0 +1,23 @@
+.App {
+  margin: 5px 0;
+  padding: 5px 0;
+}
+.List {
+  text-decoration: none;
+  list-style-type: none;
+}
+ul > li {
+  text-transform: uppercase;
+  color: aliceblue;
+  font-weight: bolder;
+  text-decoration: none;
+  list-style-type: none;
+}
+ul {
+  padding: 10px 15px;
+  background-color: aqua;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
